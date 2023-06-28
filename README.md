@@ -4,7 +4,7 @@
 
 Adaptation of the notebook from https://www.kaggle.com/code/kmader/mocap-with-asf-amc/notebook relying on the code in https://github.com/CalciferZh/AMCParser/ for parsing the asf/amc data in the [CMU Mocap](http://mocap.cs.cmu.edu). 
 
-.Additionally the data is pre-processed based on [1] (appendix A.3).  
+Additionally the data is pre-processed based on [1] (appendix A.3).  
 
 Reference  
 [1] H. Jaeger, “Using Conceptors to Manage Neural Long-Term Memories for Temporal Patterns,” Journal of Machine Learning Research, vol. 18, no. 13, pp. 1–43, 2017.
